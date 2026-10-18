@@ -68,7 +68,7 @@ print("Publication Information:")
 pub1.display()
 
 print("\nBook Information:")
-book1.set_num_of_pages(-310)
+book1.set_num_of_pages(310)
 book1.display()
 
 print("\nMagazine Information:")
